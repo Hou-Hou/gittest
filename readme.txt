@@ -5,3 +5,4 @@ Git tracks changes of files.
 test git checkout -- file
 Creating a new branch is quick and simple.
 test --no-ff on dev
+test stash on dev
